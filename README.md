@@ -34,6 +34,10 @@ curl -fsSL https://raw.githubusercontent.com/jsphbtst/claude-code-fahhh/main/uni
 
 Uses [Claude Code hooks](https://docs.anthropic.com/en/docs/claude-code/hooks) — specifically `PostToolUse` and `PostToolUseFailure` events on the `Bash` tool. When Claude runs a command that matches a test/lint pattern and it fails, the hook plays the sound.
 
+## Contributing
+
+Not accepting contributions — but fork away. It's the age of custom software. Take it, make it yours, swap the sound, add new patterns, go wild.
+
 ## License
 
 MIT
